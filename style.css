@@ -1,0 +1,19 @@
+html, body {
+   height: 100%;
+   width: 100%;
+ }
+.divv{
+   position: relative;
+   top: 3rem;
+   width: 50%;
+   margin: auto;
+}
+@media(max-width:500px){
+  .divv{
+     position: relative;
+     top: 3rem;
+     width: 72%;
+     margin: auto;
+  }
+}
+ 
