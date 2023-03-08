@@ -1,2 +1,2 @@
 # URL-Shortner 
-# [URL Shortner](https://github.com/AtanuMojumdar/URL-Shortner/)
+# [URL Shortner](https://atanumojumdar.github.io/URL-Shortner/)
